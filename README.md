@@ -45,7 +45,6 @@ Below are performance benchmarks of the models we share in this repository.
 | Face Detection Full  | 11,007    | 7,418    |**48.4%**    |
 | Iris Landmark        | 3,842    | 2,160    |**77.9%**    |
 | Face Landmark        | 5,928    | 2,118    |**179.9%**    |
-<br>
 
 ## Application codes
 
@@ -53,13 +52,11 @@ Below are example application codes to help you easily deploy models shared with
 - [Link to example1]()
 - [Link to example1]()
 - [Link to example1]() 
-<br>
 
 ## Supported layers & architectures
 
 - [Supported layers](https://optimium.readme.io/docs/optimium-copy#supported-layers)
 - [Supported architectures](https://optimium.readme.io/docs/optimium-runtime-copy#supported-environments)
-<br>
 
 ## Learn more
 
@@ -68,8 +65,5 @@ Below are example application codes to help you easily deploy models shared with
 - [Docs](https://optimium.readme.io)
 - [Demo Video](https://youtu.be/u7wzFngylis)
 - [Beta Sign-up](https://wft8y29gq1z.typeform.com/apply4optimium)
-
-<br>
-
 
 
