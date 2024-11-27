@@ -8,14 +8,12 @@ Optimium is an AI inference engine that helps users maximize their AI model infe
 
 Optimium currently supports inference acceleration of computer vision models on x86, x64, Arm64 CPUs - within this scope, it outperforms any other inference options. We plan to expand our coverage to Transformer-based models and GPUs soon, so stay tuned! 📻
 <br>
-<br>
 
 ## Goal
 
 The purpose of this repository is to share models that are already optimzed using Optimium. If you wish to try Optimium out yourself for your own models and target hardware, sign up for Optimium beta [here](https://wft8y29gq1z.typeform.com/apply4optimium). 
 
 We plan to release more Optimium-optimized models and your interest will be our priority. Feel free to let us know which models & target hardware you'd like us to optimized via [Discussion](https://github.com/EZ-Optimium/Optimium/discussions)! 
-<br>
 <br>
 
 ## Performance
@@ -56,13 +54,11 @@ Below are example application codes to help you easily deploy models shared with
 - [Link to example1]()
 - [Link to example1]() 
 <br>
-<br>
 
 ## Supported layers & architectures
 
 - [Supported layers](https://optimium.readme.io/docs/optimium-copy#supported-layers)
 - [Supported architectures](https://optimium.readme.io/docs/optimium-runtime-copy#supported-environments)
-<br>
 <br>
 
 ## Learn more
