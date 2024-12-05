@@ -13,7 +13,7 @@ Optimium currently supports inference acceleration of computer vision models on 
 
 The purpose of this repository is to share models that are already optimzed using Optimium. If you wish to try Optimium out yourself for your own models and target hardware, sign up for Optimium beta [here](https://wft8y29gq1z.typeform.com/apply4optimium). 
 
-We plan to release more Optimium-optimized models and your interest will be our priority. Feel free to let us know which models & target hardware you'd like us to optimized via [Discussion](https://github.com/EZ-Optimium/Optimium/discussions)! 
+We plan to release more Optimium-optimized models and your interest will be our priority. Feel free to let us know which models & target hardware you'd like us to optimize via [Discussion](https://github.com/EZ-Optimium/Optimium/discussions)! 
 <br>
 
 ## Performance
