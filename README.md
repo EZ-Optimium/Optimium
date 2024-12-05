@@ -52,12 +52,10 @@ Below are performance benchmarks of the models we share in this repository.
 | [Pose Landmark Full](https://github.com/EZ-Optimium/Optimium/raw/main/models/mediapipe_thread_2/pose_landmark_full.model)   | 37,666   | 29,763    |**26.6%**    |
 
 
-## Application codes
+## Docs
 
-Below are example application codes to help you easily deploy models shared within this repository.
-- [Link to example1]()
-- [Link to example1]()
-- [Link to example1]() 
+You'll be able to find out how to install and use Optimium Runtime for the execution of above models [here](https://optimium.readme.io/docs/optimium-runtime-copy).
+
 
 ## Supported layers & architectures
 
