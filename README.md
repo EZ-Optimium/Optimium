@@ -32,7 +32,6 @@ Below are performance benchmarks of the models we share in this repository.
 | Hand Landmark Full   | 27,750    | 24,076    |**15.3%**    |
 | Palm Detection Lite  | 37,031   | 20,269    |**82.7%**    |
 | Palm Detection Full  | 43,754   | 23,220    |**88.4%**    |
-| Pose Detection       | 31,020   | 25,422    |**22.0%**    |
 | Pose Landmark Lite   | 35,047   | 24,720    |**41.8%**    |
 | Pose Landmark Full   | 51,429   | 37,411    |**37.5%**    |
 | MobileNetV3          | 16,905   | 13,254    |**27.5%**    |
@@ -45,6 +44,13 @@ Below are performance benchmarks of the models we share in this repository.
 | Face Detection Full  | 11,007    | 7,418    |**48.4%**    |
 | Iris Landmark        | 3,842    | 2,160    |**77.9%**    |
 | Face Landmark        | 5,928    | 2,118    |**179.9%**    |
+| Hand Landmark Lite   | 9,694    | 9,186    |**5.5%**    |
+| Hand Landmark Full   | 16,994    | 16,904    |**0.5%%** |  
+| Palm Detection Lite  | 25,319   | 12,332    |**105.3%** | 
+| Palm Detection Full  | 31,164   | 14,547    |**114.2%**  |
+| Pose Landmark Lite   | 23,946   | 22,813    |**5.0%**    |
+| Pose Landmark Full   | 37,666   | 29,763    |**26.6%**    |
+
 
 ## Application codes
 
