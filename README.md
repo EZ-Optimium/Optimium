@@ -45,7 +45,7 @@ Below are performance benchmarks of the models we share in this repository.
 | Iris Landmark        | 3,842    | 2,160    |**77.9%**    |
 | Face Landmark        | 5,928    | 2,118    |**179.9%**    |
 | Hand Landmark Lite   | 9,694    | 9,186    |**5.5%**    |
-| Hand Landmark Full   | 16,994    | 16,904    |**0.5%%** |  
+| Hand Landmark Full   | 16,994    | 16,904    |**0.5%** |  
 | Palm Detection Lite  | 25,319   | 12,332    |**105.3%** | 
 | Palm Detection Full  | 31,164   | 14,547    |**114.2%**  |
 | Pose Landmark Lite   | 23,946   | 22,813    |**5.0%**    |
