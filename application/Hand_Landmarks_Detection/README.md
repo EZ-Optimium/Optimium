@@ -83,9 +83,14 @@ Once program started, you can switch mode between **TFLite** and **Optimium** by
 
 You can see latency and FPS in the window.
 
+![tflite-vs-optimium_r](https://github.com/user-attachments/assets/2c0f1f02-e605-48c6-bbb0-4fbda2618013)
+
+
 ### Differentiate mode
 If you type 'd', you can run differentiate mode.
 
 Once you run this mode, you can press 'r' to record video, then 'r' again to stop recoding.
 
 If you type 'q' to quit window then type 'r', you can see slo-mo video that displays both TFLite and Optimium mode.
+
+![tflite-vs-optimium_d](https://github.com/user-attachments/assets/147475fa-ad79-42c6-ae82-6ab658890bbf)
