@@ -91,6 +91,6 @@ If you type 'd', you can run differentiate mode.
 
 Once you run this mode, you can press 'r' to record video, then 'r' again to stop recoding.
 
-If you type 'q' to quit window then type 'r', you can see slo-mo video that displays both TFLite and Optimium mode.
+If you type 'q' to quit window, you can see slo-mo video that displays both TFLite and Optimium mode.
 
 ![tflite-vs-optimium_d](https://github.com/user-attachments/assets/147475fa-ad79-42c6-ae82-6ab658890bbf)
