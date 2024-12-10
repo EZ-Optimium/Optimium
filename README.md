@@ -54,7 +54,7 @@ Below are performance benchmarks of the models we share in this repository.
 
 ## How to use
 
-To run the models shared here, you'll need a accompanying Optimium Runtime. 
+To run the models shared here, you'll need an accompanying Optimium Runtime. 
 
 Download the Optimium Runtime [here](install/optimium-runtime), and find out how to install and use it [here](https://optimium.readme.io/docs/optimium-runtime-copy).
 
