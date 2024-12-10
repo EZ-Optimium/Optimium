@@ -52,15 +52,23 @@ Below are performance benchmarks of the models we share in this repository.
 | [Pose Landmark Full](https://github.com/EZ-Optimium/Optimium/raw/main/models/mediapipe_thread_2/pose_landmark_full.model)   | 37,666   | 29,763    |**26.6%**    |
 
 
-## Docs
+## How to use
 
-You'll be able to find out how to install and use Optimium Runtime for the execution of above models [here](https://optimium.readme.io/docs/optimium-runtime-copy).
+To run the models shared here, you'll need a accompanying Optimium Runtime. 
+
+Download the Optimium Runtime [here](install/optimium-runtime), and find out how to install and use it [here](https://optimium.readme.io/docs/optimium-runtime-copy).
 
 
-## Supported layers & architectures
+## Supported architectures
 
-- [Supported layers](https://optimium.readme.io/docs/optimium-copy#supported-layers)
-- [Supported architectures](https://optimium.readme.io/docs/optimium-runtime-copy#supported-environments)
+Optimium Runtime currently supports Linux and Android OS with x64 and Arm64 architectures.
+
+| OS \ Arch  | AMD64(x64) | Arm64          |
+| ---------- | --------- |-------- |
+| **Linux**    | ✅    |✅           | 
+| **Android**  | ❌    |✅          |
+
+Just for your information, you can also find the layers supported by Optimium, if you're to use our beta, [here](https://optimium.readme.io/docs/optimium-copy#supported-layers).
 
 ## Learn more
 
@@ -69,5 +77,6 @@ You'll be able to find out how to install and use Optimium Runtime for the execu
 - [Docs](https://optimium.readme.io)
 - [Demo Video](https://youtu.be/u7wzFngylis)
 - [Beta Sign-up](https://wft8y29gq1z.typeform.com/apply4optimium)
+- [Webinar](https://youtu.be/J6XPXRdVGJE)
 
 
